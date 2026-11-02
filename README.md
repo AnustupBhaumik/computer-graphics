@@ -1,2 +1,2 @@
 # computer-graphics
-Some Computer Graphics projects using OpenGL
+Applied Computer Graphics course assignments 2027
